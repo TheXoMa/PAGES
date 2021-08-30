@@ -1,0 +1,41 @@
+.fs-4{
+    color: rgb(0, 119, 255);
+}
+.fs-5{
+    color: rgb(73, 69, 77);
+}
+.fs-4,
+.fs-5{
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+.card{
+    display: flex;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.card-img-top{
+    width: 450px;
+    height: 350px;
+}
+.h3{
+    text-align: center;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+}
